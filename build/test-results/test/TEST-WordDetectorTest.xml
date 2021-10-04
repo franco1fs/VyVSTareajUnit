@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="WordDetectorTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-10-04T01:28:39" hostname="LAPTOP-7TLE5VHD" time="0.02">
+  <properties/>
+  <testcase name="thereAreTenLettersTest()" classname="WordDetectorTest" time="0.02"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
